@@ -34,7 +34,7 @@ export default function Portfolio() {
               JD
             </div>
             <h1 className="text-4xl sm:text-6xl font-bold mb-4">
-              John <span className="text-primary">Developer</span>
+              Jubu <span className="text-primary">Jubu</span>
             </h1>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
               Full-stack developer passionate about creating beautiful, functional, and user-friendly applications
